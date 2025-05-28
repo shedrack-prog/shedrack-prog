@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shedrack-prog
-- 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...Node JS, Express, MongoDB
+- 👀 I’m interested in ...Startuo ideas and contributions 
+- 🌱 I’m currently learning ... AI and LLM
 - 💞️ I’m looking to collaborate on ...Real world Pojects
 - 📫 How to reach me ... +2348111162201  or usheddy07@gmail.com
 <!---
